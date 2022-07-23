@@ -4,8 +4,8 @@ y = int(input("Enter second number: "))
 z = int(input("Enter third number: "))
 
 if x > y and x > z:
-    print("Greatest number is " + str(x))
+    print("Greatest number is " , x)
 elif y > x and y > z:
-    print("Greater number is " + str(y))
+    print("Greater number is " , y)
 elif z > x and z > y:
-    print("Greatest number is " + str(z))
+    print("Greatest number is " , z)

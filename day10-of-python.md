@@ -67,3 +67,5 @@ elif x == 3:
 else:
     print("Wrong input")
 ```
+- for concatenation in print function, use "+" and then variable name e.g. print ("Greatest number is " + str1)
+- for printing the integer value in the print function, use "," and the variable name e.g. print("Greater number is " , x)
